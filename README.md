@@ -21,6 +21,10 @@ This project is a breadboard power supply designed using KiCad. It provides stab
 
 ---
 
+![Schematic](schematic.png)
+
+---
+
 ## Components List
 | Reference | Value       | Footprint                                                                 |
 |-----------|-------------|---------------------------------------------------------------------------|
