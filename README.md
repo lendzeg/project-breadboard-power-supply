@@ -2,9 +2,12 @@
 
 ![Work in Progress](https://img.shields.io/badge/status-work%20in%20progress-yellow)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![KiCad](https://img.shields.io/badge/KiCad-v6.0-green)
+![KiCad](https://img.shields.io/badge/KiCad-v8.0-green)
+![GitHub last commit](https://img.shields.io/github/last-commit/lendzeg/project-breadboard-power-supply)
 
 This project is a breadboard power supply designed using KiCad. It provides stable and adjustable voltage outputs for prototyping and testing circuits on a breadboard. The design includes components such as voltage regulators (LM317 and LM7805), capacitors, resistors, connectors, and more.
+
+![render](./pcb-kicad/pcb-kicad-3.png)
 
 ## Features
 - **Dual Voltage Outputs**:
